@@ -1,0 +1,19 @@
+﻿<div class="holder">
+    <label class="label" for="number">@Label: 
+    <input class="input" type="@Type" value="@Value" />
+    </label>
+</div>
+
+@code {
+    [Parameter]
+    public string Label { get; set; } = String.Empty;
+
+    [Parameter]
+    public string Value {
+        get;
+        set;
+    } = String.Empty;
+
+    [Parameter]
+    public string Type { get; set; } = "number";
+}

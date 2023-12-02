@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "SDwtpcK56m+uz86ceQcH5qd9qsnkcMMPrRBokwnGy1k=",
+  "Source": "BlazorComp",
+  "BasePath": "_content/BlazorComp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorComp\\wwwroot",
+      "Source": "BlazorComp",
+      "ContentRoot": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\",
+      "BasePath": "_content/BlazorComp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorComp.styles.css",
+      "SourceId": "BlazorComp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorComp",
+      "RelativePath": "BlazorComp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorComp.styles.css"
+    },
+    {
+      "Identity": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorComp.bundle.scp.css",
+      "SourceId": "BlazorComp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorComp",
+      "RelativePath": "BlazorComp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorComp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\background.png",
+      "SourceId": "BlazorComp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\",
+      "BasePath": "_content/BlazorComp",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "BlazorComp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\",
+      "BasePath": "_content/BlazorComp",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorComp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorComp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\BlazorHybridTest\\BlazorComp\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorComp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorComp.props",
+      "PackagePath": "build\\BlazorComp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorComp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorComp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorComp.props",
+      "PackagePath": "buildTransitive\\BlazorComp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
